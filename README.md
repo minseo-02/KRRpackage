@@ -11,15 +11,8 @@ This package implements Kernel Ridge Regression (KRR) using a Gaussian kernel.
 ## 📌 Installation
 
 ```r
-devtools::install()
+devtools::install_github("minseo-02/KRRpackage")
 ```
-
-또는 GitHub에 업로드했다면:
-
-```r
-devtools::install_github("username/KRR")
-```
-
 ---
 
 ## 📌 Example: Regression Data Simulation, Fitting, Prediction
