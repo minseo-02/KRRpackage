@@ -4,7 +4,7 @@
 This package implements Kernel Ridge Regression (KRR) using a Gaussian kernel.
 
 - `krr_fit()` : KRR 모형 적합 (dual coefficients 추정)
-- `predict.krr()` : S3 predict 메서드로 새로운 데이터에 대한 예측 수행
+- `krr_predict()` : S3 predict 메서드로 새로운 데이터에 대한 예측 수행
 
 ---
 
