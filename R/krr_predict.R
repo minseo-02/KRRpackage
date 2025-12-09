@@ -11,7 +11,7 @@
 #'
 #' @export
 
-predict.krr = function(model, X_new, ...){
+krr_predict= function(model, X_new, ...){
   X = model$X
   n = nrow(X)
 
